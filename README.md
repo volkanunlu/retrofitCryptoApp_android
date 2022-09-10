@@ -1,2 +1,2 @@
-# retrofitCrytoApp_android
+# retrofitCryptoApp_android
 This project contains crypto app.
